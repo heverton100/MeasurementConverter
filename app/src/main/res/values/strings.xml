@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Measurement Converter</string>
+    <string name="textConvert1">Add the value to converter...</string>
+    <string name="converter">Converter</string>
+    <string name="selectUnit">Select the Unit:</string>
+
+    <string name="btnData">Data</string>
+    <string name="btnTemp">Temperature</string>
+    <string name="btnLen">Length</string>
+    <string name="btnMass">Mass</string>
+
+</resources>
